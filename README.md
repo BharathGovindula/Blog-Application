@@ -8,7 +8,7 @@ This application will allow users to Register, Login, Create, Edit, Delete, and 
 Frontend | Backend | Fullstack
 
 ## Deplolyed App
-- Deployed Link : [Click Here](https://blog-application-3z49.vercel.app/)
+- Deployed Link : [Click Here](https://blog-application-o6a2z6wi3-bharath-govindulas-projects.vercel.app/)
 - Backend : [Click Here](https://blog-application-slj2.onrender.com/)
 
 ## Directory Structure
@@ -92,8 +92,8 @@ npm run dev
 ```
 
 ## Credentials
-email: sai1@gmail.com
-password: sai123
+email: Bharath@gmail.com
+password: Bharath987
 
 ## Technologies Used
 
