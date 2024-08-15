@@ -68,7 +68,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   https://github.com/Saiteja-Goli/Blog---Application.git
+   https://github.com/BharathGovindula/Blog-Application.git
    ```
 
 2. Navigate to the project folder:
