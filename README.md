@@ -11,6 +11,13 @@ Frontend | Backend | Fullstack
 - Deployed Link : [Click Here](https://blog-application-o6a2z6wi3-bharath-govindulas-projects.vercel.app/)
 - Backend : [Click Here](https://blog-application-slj2.onrender.com/)
 
+## Screenshots
+
+<img width="1870" height="810" alt="Screenshot 2025-08-06 213435" src="https://github.com/user-attachments/assets/eae0b235-ec03-49a7-b333-d6f27834a9df" />
+<img width="1899" height="811" alt="Screenshot 2025-08-06 213415" src="https://github.com/user-attachments/assets/2b2b4bce-b98e-4446-88a8-370521586c54" />
+
+
+
 ## Directory Structure
 Blog---Application/
 ├─ client/
